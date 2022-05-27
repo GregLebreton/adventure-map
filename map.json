@@ -26,7 +26,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":21,
          "id":52,
-         "name":"siteGarage",
+         "name":"test-site",
          "opacity":1,
          "properties":[
                 {
@@ -522,7 +522,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"GarageNum Map"
+         "value":"A perfect virtual office to get started with WorkAdventure!"
         }, 
         {
          "name":"mapImage",
@@ -537,7 +537,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Garage"
+         "value":"Office"
         }, 
         {
          "name":"script",
@@ -660,29 +660,6 @@
          "spacing":0,
          "tilecount":850,
          "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":0,
-         "firstgid":2677,
-         "grid":
-            {
-             "height":1,
-             "orientation":"orthogonal",
-             "width":1
-            },
-         "margin":0,
-         "name":"WA_Custom",
-         "spacing":0,
-         "tilecount":1,
-         "tileheight":32,
-         "tiles":[
-                {
-                 "id":1,
-                 "image":"src\/assets\/WA_Custom.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }],
          "tilewidth":32
         }],
  "tilewidth":32,
