@@ -230,7 +230,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/map2.json"
+                 "value":"map2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
