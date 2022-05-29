@@ -1,19 +1,32 @@
 # WorkAdventure Map Starter Kit
-# TEST GARAGE!!!!
+# GARAGE MAP
+
 ![map](./map.png)
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
 
 To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
 
+## Pré requis
+
+- npm (comes with [node](https://nodejs.org/en/))
+
 ## Installation
 
-With npm installed (comes with [node](https://nodejs.org/en/)), run the following commands into a terminal in the root directory of this project:
-
-```shell
+```bash
 npm install
 npm run start
 ```
+
+Le navigateur s'ouvre, choisir "tester la map"
+
+- A chaque modification sur la map, enregistrer (ctrl+s) et recharger la page du navigateur.
+
+## Blocs
+
+## Layers
+
+## Propriétés personnalisées
 
 ## Licenses
 
