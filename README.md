@@ -11,6 +11,10 @@ To understand how to use this starter kit, follow the tutorial at [https://worka
 
 - npm (comes with [node](https://nodejs.org/en/))
 
+```bash
+sudo apt install npm -y
+```
+
 ## Installation
 
 ```bash
@@ -48,9 +52,10 @@ exemple: Pour un bloc spécial "EXIT", il faudrat ajouter une propriété "exitU
 
 ## Ajout de tileset (jeu de tuiles)
 
-Pour ajouter des jeux de tuiles, il faut ajouter l'image du jeu de tuile dans le dossier src/assets/
-Puis il faut l'importer via l'interface de Tiled dans la fenêtre à droite "jeux de Tuiles"
-Cliquer sur l'icone "Nouveau Jeu de Tuiles"
+Pour ajouter des jeux de tuiles, il faut:
+- Ajouter l'image du jeu de tuile dans le dossier src/assets/
+- Importer via l'interface de Tiled dans la fenêtre à droite "jeux de Tuiles"
+- Cliquer sur l'icone "Nouveau Jeu de Tuiles"
 
 ![map](./docs/tileset.png)
 
