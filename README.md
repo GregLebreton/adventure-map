@@ -1,7 +1,7 @@
 # WorkAdventure Map Starter Kit
 # GARAGE MAP
 
-![map](./map.png)
+![map](./docs/map.png)
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
 
@@ -28,6 +28,8 @@ Les blocs (ou tiles pour tuile en anglais) vont afficher les textures choisies d
 Un bloc est toujours rattaché à une layer d'affichage.
 - Les blocs spéciaux permettent de créer des intéractions sur les tuiles.
 
+![map](./docs/blocs.png)
+
 ## Layers
 
 Les layers déterminent sur quelle profondeur s'affiche les tuiles.
@@ -35,10 +37,14 @@ La hiérarchie des layers est la suivante:
 - La layer la plus en bas est dérrière toutes les autres au dessus d'elle.
 - La layer la plus en haut s'affiche devant toutes les autres.
 
+![map](./docs/layers.png)
+
 ## Propriétés personnalisées
 
 Il est possible d'ajouter des propriétés aux tuiles.
 exemple: Pour un bloc spécial "EXIT", il faudrat ajouter une propriété "exitUrl" de type string ou serat renseigner l'url de la map vers laquelle le bloc exit envoie.
+
+![map](./docs/props.png)
 
 ## Licenses
 
