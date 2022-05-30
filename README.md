@@ -24,9 +24,21 @@ Le navigateur s'ouvre, choisir "tester la map"
 
 ## Blocs
 
+Les blocs (ou tiles pour tuile en anglais) vont afficher les textures choisies dans les jeux de tuiles sur la map.
+Un bloc est toujours rattaché à une layer d'affichage.
+- Les blocs spéciaux permettent de créer des intéractions sur les tuiles.
+
 ## Layers
 
+Les layers déterminent sur quelle profondeur s'affiche les tuiles.
+La hiérarchie des layers est la suivante:
+- La layer la plus en bas est dérrière toutes les autres au dessus d'elle.
+- La layer la plus en haut s'affiche devant toutes les autres.
+
 ## Propriétés personnalisées
+
+Il est possible d'ajouter des propriétés aux tuiles.
+exemple: Pour un bloc spécial "EXIT", il faudrat ajouter une propriété "exitUrl" de type string ou serat renseigner l'url de la map vers laquelle le bloc exit envoie.
 
 ## Licenses
 
