@@ -34,6 +34,18 @@ Un bloc est toujours rattaché à une layer d'affichage.
 
 ![map](./docs/blocs.png)
 
+- start: 
+- block:
+- silent:
+- entry:
+- exit:
+- zone:
+- url:
+- jitsi:
+- audio:
+- misc:
+
+
 ## Layers
 
 Les layers déterminent sur quelle profondeur s'affiche les tuiles.
