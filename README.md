@@ -46,6 +46,16 @@ exemple: Pour un bloc spécial "EXIT", il faudrat ajouter une propriété "exitU
 
 ![map](./docs/props.png)
 
+## Ajout de tileset (jeu de tuiles)
+
+Pour ajouter des jeux de tuiles, il faut ajouter l'image du jeu de tuile dans le dossier src/assets/
+Puis il faut l'importer via l'interface de Tiled dans la fenêtre à droite "jeux de Tuiles"
+Cliquer sur l'icone "Nouveau Jeu de Tuiles"
+
+![map](./docs/tileset.png)
+
+Enfin, dans la fenêtre contextuelle, entrer un nom pour le nouveau jeu de tuiles et naviguer jusqu'à l'image du jeu de tuile, puis cliquer sur OK
+
 ## Licenses
 
 This project contains multiple licenses as follows:
