@@ -853,6 +853,19 @@
          "tilecount":1,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":3259,
+         "image":"src\/assets\/WA_tree-trunk.png",
+         "imageheight":1408,
+         "imagewidth":256,
+         "margin":0,
+         "name":"WA-tree-trunk",
+         "spacing":0,
+         "tilecount":352,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
