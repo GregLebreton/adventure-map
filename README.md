@@ -35,15 +35,15 @@ Un bloc est toujours rattaché à une layer d'affichage.
 ![map](./docs/blocs.png)
 
 - start: 
-- block:
-- silent:
-- entry:
-- exit:
-- zone:
-- url:
-- jitsi:
-- audio:
-- misc:
+- block: 
+- silent: 
+- entry: 
+- exit: 
+- zone: 
+- url: 
+- jitsi: 
+- audio: 
+- misc: 
 
 
 ## Layers
@@ -72,6 +72,11 @@ Pour ajouter des jeux de tuiles, il faut:
 ![map](./docs/tileset.png)
 
 Enfin, dans la fenêtre contextuelle, entrer un nom pour le nouveau jeu de tuiles et naviguer jusqu'à l'image du jeu de tuile, puis cliquer sur OK
+
+## Ressources
+
+- https://opengameart.org/
+- 
 
 ## Licenses
 
