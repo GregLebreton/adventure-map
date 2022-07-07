@@ -70,7 +70,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.leboard.legaragenumerique.fr"
+                 "value":"https:\/\/leboard.legaragenumerique.fr"
                 }],
          "type":"tilelayer",
          "visible":true,
