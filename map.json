@@ -68,7 +68,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/leboard.legaragenumerique.fr"
                 }],
@@ -108,7 +108,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.google.com\/maps\/"
+                 "value":"https:\/\/www.qwant.com"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -252,7 +252,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuies sur ESPACE pour rejoindre la visioAppuies sur ESPACE pour rejoindre la visio"
+                 "value":"Appuies sur ESPACE pour rejoindre la visio"
                 }],
          "type":"tilelayer",
          "visible":true,
