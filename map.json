@@ -64,13 +64,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":21,
          "id":57,
-         "name":"Kanboard",
+         "name":"YetiGame",
          "opacity":1,
          "properties":[
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/leboard.legaragenumerique.fr"
+                 "value":"https:\/\/gemioli.com\/yetisensation\/"
                 }],
          "type":"tilelayer",
          "visible":true,
