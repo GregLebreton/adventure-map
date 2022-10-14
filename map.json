@@ -66,6 +66,12 @@
          "id":57,
          "name":"Kanboard",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/leboard.legaragenumerique.fr"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
