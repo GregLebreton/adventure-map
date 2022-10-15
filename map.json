@@ -149,14 +149,24 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":21,
-         "id":56,
-         "name":"siteQwant",
+         "id":59,
+         "name":"Nextcloud",
          "opacity":1,
          "properties":[
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.qwant.com"
+                 "value":"https:\/\/nextcloud.legaragenumerique.fr\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Appuyer sur espace pour ouvrir le nextcloud"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -736,7 +746,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":59,
+ "nextlayerid":60,
  "nextobjectid":13,
  "orientation":"orthogonal",
  "properties":[
